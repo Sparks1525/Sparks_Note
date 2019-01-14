@@ -1,0 +1,8 @@
+JVM虚拟机---》设计模式---》并发编程实战---》数据结构--》
+SSH/SSM---》Spring boot/Spring cloud--->Redis等缓存--->Netty/java socket(Java网络编程)
+Java Web  JQuery/bootstrap
+linux/Oracle等数据库
+
+
+进阶
+《JAVA核心技术》 、 《Thinking In Java》 、 《Effective Java》

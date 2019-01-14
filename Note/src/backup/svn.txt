@@ -1,0 +1,1 @@
+https://192.168.199.121/svn/miba/trunk/GameProject/chess_v4
